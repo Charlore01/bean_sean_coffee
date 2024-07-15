@@ -573,7 +573,7 @@ button {
     .orders {
         width: 80%;
         height: auto;
-        margin: 20px auto;
+        margin: 20px 0px 20px 60px;
     }
 
     .orders>.card-prices>.price {
@@ -751,7 +751,7 @@ button {
     .card2 {
         width: 80%;
         height: 480px;
-        margin: 20px auto;
+        margin: 20px 0px 20px 60px;
     }
 
     .card2>img {
