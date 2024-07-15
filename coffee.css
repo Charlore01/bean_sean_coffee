@@ -1122,6 +1122,7 @@ button {
     .quote>p {
         font-size: 12px;
         width: 250px;
+        margin-left: 43px;
     }
 
     .quote>h2 {
@@ -1344,7 +1345,7 @@ button {
     .footer-bg>.input-text {
         width: 70px;
         top: 135px;
-        left: 65%;
+        left: 66.5%;
         /* margin-left: 16px; */
         padding: 17px 0px;
         transform: translateX(-50%);
@@ -1355,7 +1356,7 @@ button {
     .footer-bg>.input-text {
         width: 70px;
         top: 135px;
-        left: 69%;
+        left: 67%;
         padding: 17px 0px;
         transform: translateX(-50%);
     }
