@@ -1106,7 +1106,7 @@ button {
     .texts>img {
         margin-left: 265px;
         width: 150px;
-        display: none;
+        /* display: none; */
     }
 
     .texts>h1 {
