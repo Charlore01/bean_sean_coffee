@@ -1170,6 +1170,10 @@ button {
         width: 120px;
     }
 
+    .quote {
+           margin-top: 30px;
+    }
+
     .quote>.man-post {
         margin-left: 90px;
     }
