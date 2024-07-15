@@ -52,7 +52,7 @@ body {
 .navlinks>ul>li>a {
     text-decoration: none;
     color: #fff;
-    margin-left: 140px;
+    margin-left: 157px;
 
 }
 
@@ -533,6 +533,12 @@ button {
  
 
 /* Responsive Styles */
+@media (max-width: 1600px){
+    .orders {
+        margin-left: 50px;
+    }
+}
+
 @media (max-width: 1200px) {
     .content2>h1 {
         margin-left: 0;
@@ -694,6 +700,16 @@ button {
  
 
 /* Responsive Styles */
+@media (max-width: 1600px){
+    .card2 {
+        margin-left: 50px;
+    }
+
+    .right-img {
+        margin-left: 1050px;
+    }
+}
+
 @media (max-width: 1200px) {
     .content3>h1 {
         margin-left: -60px;
@@ -1247,6 +1263,15 @@ button {
 
 /* responsiveness for first footer image  */
 
+@media (max-width: 1600px) {
+    .footer-bg>.input-text {
+        width: 100px;
+        top: 183px;
+        padding: 13px 0px;
+        left: 60.4%;
+        transform: translateX(-50%);
+    }
+}
 
 
 
@@ -1363,7 +1388,7 @@ button {
 
 .footer-texts {
     position: absolute;
-    top: 4200px;
+    top: 4000px;
     left: 50px;
     text-decoration: none;
     color: #fff;
@@ -1389,7 +1414,7 @@ button {
 .footer-texts2 {
     color: #fff;
     position: absolute;
-    top: 4200px;
+    top: 4000px;
     left: 600px;
     color: #fff;
 }
@@ -1407,7 +1432,7 @@ button {
 .footer-texts3 {
     color: #fff;
     position: absolute;
-    top: 4200px;
+    top: 4000px;
     left: 800px;
 }
 
@@ -1424,7 +1449,7 @@ button {
 .footer-texts4 {
     color: #fff;
     position: absolute;
-    top: 4200px;
+    top: 4000px;
     left: 1000px;
 }
 
@@ -1449,7 +1474,25 @@ button {
 
 /* responsiveness for footer  */
 
+@media (max-width: 1600px){
+    .footer-texts {
+        margin-top: 200px;
+        
+    }
+    .footer-texts2 {
+        margin-top: 200px;
+    }
+    .footer-texts3 {
+        margin-top: 200px;
+    }
+
+    .footer-texts4 {
+        margin-top: 200px;
+    }
+}
+
 @media (max-width: 1200px) {
+
     .footer-bg2 > img {
         height: 700px;
         max-width: 100%;
