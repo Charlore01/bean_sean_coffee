@@ -36,7 +36,7 @@ body {
     position: fixed;
     top: 0;
     background: rgba(0, 0, 0, 0.5);
-    max-width: 100%;
+    width: 100%;
     padding-bottom: 15px;
 
     /* to allow the navlinks appear above all body content */
@@ -52,7 +52,7 @@ body {
 .navlinks>ul>li>a {
     text-decoration: none;
     color: #fff;
-    margin-left: 157px;
+    margin-left: 156px;
 
 }
 
@@ -628,7 +628,7 @@ button {
 /* second content or container styling */
 
 .right-img {
-    margin-left: 960px;
+    margin-left: 1130px;
     margin-top: -200px;
 }
 
@@ -700,7 +700,7 @@ button {
  
 
 /* Responsive Styles */
-@media (max-width: 1600px){
+/* @media (max-width: 1600px){
     .card2 {
         margin-left: 50px;
     }
@@ -708,7 +708,7 @@ button {
     .right-img {
         margin-left: 1050px;
     }
-}
+} */
 
 @media (max-width: 1200px) {
     .content3>h1 {
@@ -970,7 +970,7 @@ button {
 }
 
 .texts>img {
-    margin-left: 960px;
+    margin-left: 1100px;
     margin-top: -80px;
 }
 
@@ -1268,7 +1268,7 @@ button {
         width: 100px;
         top: 183px;
         padding: 13px 0px;
-        left: 60.4%;
+        left: 59.8%;
         transform: translateX(-50%);
     }
 }
@@ -1476,18 +1476,18 @@ button {
 
 @media (max-width: 1600px){
     .footer-texts {
-        margin-top: 200px;
+        margin-top: 10px;
         
     }
     .footer-texts2 {
-        margin-top: 200px;
+        margin-top: 10px;
     }
     .footer-texts3 {
-        margin-top: 200px;
+        margin-top: 10px;
     }
 
     .footer-texts4 {
-        margin-top: 200px;
+        margin-top: 10px;
     }
 }
 
